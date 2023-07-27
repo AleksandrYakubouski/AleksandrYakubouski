@@ -10,7 +10,7 @@ ___
 
  • __Terminal Linux__ - [Link](https://github.com/AleksandrYakubouski/Terminal/blob/main/README.md) 
 
- • __Git__ - [Link](https://github.com/AleksandrYakubouski/Git_branch/blob/main/README.md)
+ • __Git__ - [Link](https://github.com/AleksandrYakubouski/GitHub/blob/main/README.md)
 
  • __SQL__ - [Link](https://github.com/AleksandrYakubouski/SQL/blob/main/README.md)
 
