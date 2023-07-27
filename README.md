@@ -8,8 +8,6 @@ ___
 
  • __Client-server architecture__ - Response codes, query methods.
 
- • __Documentation__ - [Checklists](https://docs.google.com/spreadsheets/d/1OGLl7aYYlPHfDevrjMWGbOlIP6k0WuZ4-T1COxDmnqw/edit#gid=0) / [Bug_reports](https://docs.google.com/spreadsheets/d/1OGLl7aYYlPHfDevrjMWGbOlIP6k0WuZ4-T1COxDmnqw/edit#gid=1992942327) / [Test-case](https://docs.google.com/spreadsheets/d/1OGLl7aYYlPHfDevrjMWGbOlIP6k0WuZ4-T1COxDmnqw/edit#gid=198742188) / [Requirements](https://docs.google.com/spreadsheets/d/1OGLl7aYYlPHfDevrjMWGbOlIP6k0WuZ4-T1COxDmnqw/edit#gid=1726110568)
- 
  • __Terminal Linux__ - [Link](https://github.com/AleksandrYakubouski/Terminal/blob/main/README.md) 
 
  • __Git__ - [Link](https://github.com/AleksandrYakubouski/Git_branch/blob/main/README.md)
